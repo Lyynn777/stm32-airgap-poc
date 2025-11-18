@@ -1,0 +1,7 @@
+open("/etc/passwd")
+read(3)
+close(3)
+open("/home/user/config")
+read(4)
+close(4)
+

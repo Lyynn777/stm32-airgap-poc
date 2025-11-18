@@ -1,0 +1,9 @@
+open("/home/user/documents/file1")
+read(3)
+write(3)
+write(3)
+execve("/usr/bin/mal_agent")
+unlink("/home/user/documents/file1")
+fork()
+clone()
+

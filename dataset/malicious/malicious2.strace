@@ -1,0 +1,7 @@
+open("/tmp/data.txt")
+write(4)
+execve("/usr/bin/encryptor")
+rename("/tmp/data.txt", "/tmp/data.locked")
+fork()
+clone()
+
