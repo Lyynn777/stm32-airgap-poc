@@ -1,0 +1,7 @@
+open("/etc/hostname")
+read(3)
+close(3)
+open("/etc/hosts")
+read(4)
+close(4)
+

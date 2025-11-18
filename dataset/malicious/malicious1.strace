@@ -1,0 +1,7 @@
+open("/home/user/secret")
+write(5)
+write(5)
+execve("/usr/bin/crypto_tool")
+unlink("/home/user/secret")
+fork()
+

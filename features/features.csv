@@ -1,0 +1,7 @@
+id,label,open_count,read_count,write_count,execve_count,connect_count,fork_count,clone_count,created_count,deleted_count,new_process_count
+benign1,benign,2,2,0,0,0,0,0,0,0,0
+benign2,benign,2,3,0,0,0,0,0,0,0,0
+benign3,benign,2,2,0,0,0,0,0,0,0,0
+malicious1,malicious,1,0,2,1,0,1,0,1,1,1
+malicious2,malicious,1,0,1,1,0,1,1,0,0,2
+malicious3,malicious,1,1,2,1,0,1,1,1,1,2

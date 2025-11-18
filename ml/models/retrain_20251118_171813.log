@@ -1,0 +1,9 @@
+Command: C:\Program Files\Python313\python.exe ml\train_rf.py --features features\features.csv --model-out ml\models\model_rf_20251118_171813.pkl --metrics-out ml\metrics\metrics_20251118_171813.png
+Return code: 0
+
+--- STDOUT ---
+Accuracy: 1.0000
+
+
+--- STDERR ---
+

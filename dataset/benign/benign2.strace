@@ -1,0 +1,8 @@
+open("/var/log/syslog")
+read(3)
+read(3)
+close(3)
+open("/usr/share/data")
+read(4)
+close(4)
+
